@@ -21,3 +21,16 @@ Compreender os princípios do planejamento financeiro pessoal e desenvolver conh
 - Entender como o planejamento financeiro auxilia na construção do hábito de poupar e investir.
 
 ---
+
+## 📚 Curadoria das Fontes
+
+Para desenvolver este projeto, foram selecionadas fontes oficiais e materiais especializados sobre educação financeira. Esses conteúdos serviram de base para todas as consultas realizadas no NotebookLM.
+
+| Fonte | Instituição | Link |
+|:------|:------------|:-----|
+| Caderno de Educação Financeira – Gestão de Finanças Pessoais | Banco Central do Brasil | https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf |
+| Guia de Planejamento Financeiro | Comissão de Valores Mobiliários (CVM) | https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-planejamento-financeiro |
+| Educação Financeira | B3 – Brasil, Bolsa, Balcão | https://www.b3.com.br/pt_br/b3/asg/educacao-financeira.htm |
+| Planilhas de Controle Financeiro | Mobills | https://www.mobills.com.br/blog/planilhas/planilha-de-controle-financeiro/ |
+
+---
