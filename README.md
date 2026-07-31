@@ -85,3 +85,16 @@ Os principais temas abordados foram:
 O conteúdo foi estruturado em linguagem simples, permitindo futuras revisões rápidas e facilitando o aprendizado do tema.
 
 ---
+## 📚 Glossário
+
+| Conceito | Definição |
+|:----------|:----------|
+| Planejamento Financeiro | Processo de organizar receitas, despesas e objetivos financeiros para tomar decisões conscientes. |
+| Orçamento | Ferramenta utilizada para controlar receitas, despesas e investimentos. |
+| Reserva de Emergência | Valor destinado a imprevistos financeiros, proporcionando maior segurança. |
+| Receitas | Todo dinheiro que entra no orçamento. |
+| Despesas | Gastos realizados no dia a dia. |
+| Investimento | Aplicação de recursos com expectativa de retorno financeiro futuro. |
+| Bem-estar Financeiro | Situação em que a pessoa consegue cumprir seus compromissos financeiros e planejar o futuro. |
+
+---
