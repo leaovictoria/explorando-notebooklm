@@ -98,3 +98,35 @@ O conteúdo foi estruturado em linguagem simples, permitindo futuras revisões r
 | Bem-estar Financeiro | Situação em que a pessoa consegue cumprir seus compromissos financeiros e planejar o futuro. |
 
 ---
+
+## 💡 Prompts Reutilizáveis
+
+Os prompts abaixo podem ser reutilizados em novos estudos utilizando o NotebookLM.
+
+- Explique o conceito de **[tema]** utilizando apenas as fontes carregadas.
+- Organize as principais informações em formato de tabela.
+- Crie um resumo dividido por tópicos.
+- Liste os principais conceitos apresentados nas fontes.
+- Elabore um glossário contendo os termos mais importantes.
+- Gere perguntas para revisão do conteúdo estudado.
+
+---
+## 🎓 Principais Aprendizados
+
+Durante este projeto foi possível compreender que a Inteligência Artificial pode ser utilizada como uma ferramenta de apoio ao aprendizado, desde que esteja baseada em fontes confiáveis.
+
+Além do conteúdo sobre Planejamento Financeiro Pessoal, o desafio contribuiu para o desenvolvimento de habilidades como:
+
+- pesquisa e curadoria de fontes;
+- organização da informação;
+- engenharia de prompts;
+- documentação de projetos em Markdown;
+- utilização do GitHub para publicação de projetos.
+
+---
+
+## 👩‍💻 Sobre a autora
+
+**Victória Leão**
+
+Estudante de Análise e Desenvolvimento de Sistemas, em transição para a área de Tecnologia. Este projeto foi desenvolvido durante o curso de Inteligência Artificial da DIO com o objetivo de explorar o uso do NotebookLM como ferramenta de aprendizagem ativa e ampliar os conhecimentos em documentação técnica e organização de informações.
