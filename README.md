@@ -33,4 +33,21 @@ Para desenvolver este projeto, foram selecionadas fontes oficiais e materiais es
 | Educação Financeira | B3 – Brasil, Bolsa, Balcão | https://www.b3.com.br/pt_br/b3/asg/educacao-financeira.htm |
 | Planilhas de Controle Financeiro | Mobills | https://www.mobills.com.br/blog/planilhas/planilha-de-controle-financeiro/ |
 
+## 🤖 Como utilizei o NotebookLM
+
+O NotebookLM foi utilizado como ferramenta de aprendizagem ativa durante todo o desenvolvimento deste projeto. Após selecionar e adicionar as fontes ao notebook, foram realizadas consultas direcionadas para compreender os principais conceitos sobre planejamento financeiro pessoal.
+
+Durante o processo, a ferramenta foi utilizada para:
+
+- compreender conceitos fundamentais a partir das fontes selecionadas;
+- comparar informações apresentadas por diferentes materiais;
+- gerar resumos estruturados para cada tópico estudado;
+- organizar conceitos em tabelas para facilitar a revisão;
+- elaborar um miniguia de estudos;
+- criar um glossário com os principais termos relacionados ao tema.
+
+Ao longo das interações, os prompts foram refinados para obter respostas mais claras, objetivas e alinhadas exclusivamente às fontes carregadas no NotebookLM.
+
+---
+
 ---
