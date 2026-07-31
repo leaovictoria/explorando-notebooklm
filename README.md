@@ -48,6 +48,23 @@ Durante o processo, a ferramenta foi utilizada para:
 
 Ao longo das interações, os prompts foram refinados para obter respostas mais claras, objetivas e alinhadas exclusivamente às fontes carregadas no NotebookLM.
 
+## 💬 Engenharia de Prompts
+
+Durante o desenvolvimento deste projeto, diferentes estratégias de prompts foram utilizadas para explorar o potencial do NotebookLM como ferramenta de aprendizagem ativa. A cada nova interação, os prompts foram refinados para tornar as respostas mais objetivas, organizadas e alinhadas às fontes carregadas.
+
+| Prompt | Objetivo | Resultado |
+| :------ | :------- | :-------- |
+| Explicar o que é planejamento financeiro pessoal | Compreender os conceitos fundamentais do tema. | Obtenção de uma visão geral sobre definição, objetivos e benefícios. |
+| Organizar o conteúdo em tabela | Facilitar a consulta e comparação entre os principais conceitos. | Geração de uma tabela contendo conceito, explicação, exemplo prático e fonte utilizada. |
+| Elaborar um miniguia de estudos | Consolidar todo o conhecimento obtido em um único material estruturado. | Produção de um guia dividido por tópicos, contendo resumos, pontos principais e referências. |
+
+### Principais aprendizados
+
+- Prompts mais específicos geram respostas mais organizadas.
+- Informar o formato esperado (tabela, resumo ou tópicos) melhora significativamente o resultado.
+- Solicitar que apenas as fontes carregadas sejam utilizadas aumenta a confiabilidade das respostas.
+- Refinar os prompts faz parte do processo de aprendizagem e contribui para resultados mais úteis.
+
 ---
 
 ---
