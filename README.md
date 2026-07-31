@@ -123,12 +123,6 @@ Além do conteúdo sobre Planejamento Financeiro Pessoal, o desafio contribuiu p
 - documentação de projetos em Markdown;
 - utilização do GitHub para publicação de projetos.
 
----
-# Explorando o NotebookLM
-
-## 📌 Objetivo
-Este projeto foi desenvolvido como parte do desafio da DIO sobre IA Generativa. O objetivo é apresentar um miniguia de estudos utilizando o NotebookLM como ferramenta de aprendizagem ativa.
-
 ## 🛠️ Tecnologias utilizadas
 - NotebookLM
 - GitHub
@@ -141,12 +135,6 @@ Este projeto foi desenvolvido como parte do desafio da DIO sobre IA Generativa. 
 - Perguntas e respostas
 - Aplicações do NotebookLM
 
-## 📚 Aprendizados
-Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
-- IA Generativa
-- Engenharia de Prompts
-- Organização de estudos com IA
-- Documentação de projetos no GitHub
 
 ## 🚀 Autor
 *Vitória Leão*
