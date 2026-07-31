@@ -135,10 +135,6 @@ Além do conteúdo sobre Planejamento Financeiro Pessoal, o desafio contribuiu p
 - Perguntas e respostas
 - Aplicações do NotebookLM
 
-
-## 🚀 Autor
-*Vitória Leão*
-
 ## 👩‍💻 Sobre a autora
 
 **Victória Leão**
